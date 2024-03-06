@@ -6,3 +6,15 @@ Given the low data requirements of the model, there is promising potential for i
 We encourage you, the researchers, to test the performance of Bi-SGTAR in other non-coding RNA-disease, drug target, and other association prediction areas. Since it only requires a known association matrix, this is very simple to implement. 
 
 # Training on Colab
+Open Pub-Bi-SGTAR.ipynb and click the "Open in Colab" button to quickly reproduce the results in the Google Colab environment.
+
+# Cite
+If you compare with, build on, or use aspects of this work, please cite the following:
+
+@article{li2024Bi-SGTAR,
+  title={Bi-SGTAR: A Simple yet Efficient Model for CircRNA-Disease Association Prediction based on Known Association Pair Only},
+  author={Li, Shiyuan and Chen, Qingfeng and Liu, Zhixian and Pan, Shirui and Zhang, Shichao},
+  journal={Knowledge-Based Systems},
+  year={2024},
+  publisher={Elsevier}
+}

@@ -1,5 +1,5 @@
 # Bi-SGTAR
- Official implementation of "Bi-SGTAR: A Simple yet Efficient Model for CircRNA-Disease Association Prediction based on Known Association Pair Only", accepted by Knowledge-Based Systems.
+ Official implementation of "[Bi-SGTAR: A Simple yet Efficient Model for CircRNA-Disease Association Prediction based on Known Association Pair Only](https://www.sciencedirect.com/science/article/abs/pii/S0950705124002570)", accepted by Knowledge-Based Systems.
 
 In recent years, research has intensively pursued predicting circRNA-disease associations, often favoring complex models integrating multiple data sources and advanced neural architectures. Conversely, our work explores whether traditional ML techniques can achieve equivalent performance. Comparative experiments with 25 state-of-the-art models affirm Bi-SGTAR's effectiveness. Notably, Bi-SGTAR's minimal data requirement, utilizing only a **adjacency matrix**, is advantageous for researchers with **limited resources**. 
 

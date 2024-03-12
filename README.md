@@ -12,10 +12,11 @@ Open Pub-Bi-SGTAR.ipynb and click the ["Open in Colab"](https://colab.research.g
 If you compare with, build on, or use aspects of this work, please cite the following:
 
 ```js/java/c#/text
-@article{li2024Bi-SGTAR,
+@article{li2024bi,
   title={Bi-SGTAR: A Simple yet Efficient Model for CircRNA-Disease Association Prediction based on Known Association Pair Only},
   author={Li, Shiyuan and Chen, Qingfeng and Liu, Zhixian and Pan, Shirui and Zhang, Shichao},
   journal={Knowledge-Based Systems},
+  pages={111622},
   year={2024},
   publisher={Elsevier}
 }
